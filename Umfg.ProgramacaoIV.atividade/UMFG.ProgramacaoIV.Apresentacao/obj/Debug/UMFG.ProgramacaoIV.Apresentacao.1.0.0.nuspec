@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UMFG.ProgramacaoIV.Apresentacao</id>
+    <version>1.0.0</version>
+    <authors>UMFG.ProgramacaoIV.Apresentacao</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.runtimeconfig.json" target="lib\net7.0\UMFG.ProgramacaoIV.Apresentacao.runtimeconfig.json" />
+    <file src="D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll" target="lib\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll" />
+  </files>
+</package>

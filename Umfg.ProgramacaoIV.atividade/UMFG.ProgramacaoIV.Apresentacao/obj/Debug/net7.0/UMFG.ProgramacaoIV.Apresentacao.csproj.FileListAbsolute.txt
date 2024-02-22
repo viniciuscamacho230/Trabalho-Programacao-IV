@@ -1,0 +1,14 @@
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.exe
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.deps.json
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.runtimeconfig.json
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\bin\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.pdb
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.AssemblyInfoInputs.cache
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.AssemblyInfo.cs
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.csproj.CoreCompileInputs.cache
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.dll
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Apresentacao.dll
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.pdb
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\UMFG.ProgramacaoIV.Apresentacao.genruntimeconfig.cache
+D:\5º PERIODO ADS - 2024\PROGRAMACAO IV\Umfg.ProgramacaoIV.atividade\UMFG.ProgramacaoIV.Apresentacao\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Apresentacao.dll
